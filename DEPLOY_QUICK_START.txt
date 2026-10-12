@@ -1,0 +1,20 @@
+RIPPLE MAP v1.0 — TWO WAYS TO RUN IT
+==================================
+
+TEST IT FIRST:
+1. Extract this ZIP.
+2. Double-click index.html to run in your browser.
+   OR double-click Preview_on_Windows.bat (requires Python).
+3. Choose a system, turn on more lenses and stress-test a disruption.
+4. Export your results to Markdown/SVG/PNG.
+
+GITHUB PAGES:
+1. Make a PUBLIC GitHub repository called Ripple-Map.
+2. Upload the *FILES INSIDE THIS FOLDER* directly to the repository ROOT.
+   index.html must be at the root (not inside an extra folder).
+3. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+4. Your expected link: https://dvexperiments.github.io/Ripple-Map/
+5. The included dv-project.json provides DV Experiments dashboard details.
+
+NOTE: Hosting is free. No API keys, paid services or Python web server are
+required on GitHub Pages. Students' maps save to their OWN browsers.

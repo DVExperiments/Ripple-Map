@@ -1,0 +1,11 @@
+{
+  "name": "Ripple Map — Systems Thinking Lab",
+  "short_name": "Ripple Map",
+  "description": "Explore the hidden networks behind everyday technology.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#081320",
+  "theme_color": "#081320",
+  "icons": [{"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}

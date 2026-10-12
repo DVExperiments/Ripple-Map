@@ -1,0 +1,32 @@
+{
+  "title": "Ripple Map",
+  "tagline": "Everything is connected.",
+  "description": "An interactive systems-thinking lab. Reveal the invisible infrastructure, people, information, governance and ecological relationships behind everyday technologies, test disruptions and build your own systems map.",
+  "category": "Tools",
+  "platform": "Browser / HTML, CSS & JavaScript",
+  "year": "2026",
+  "overview": [
+    "Ripple Map transforms a seemingly simple technology or public service into a layered network of interdependent supporting systems. Learners progressively reveal physical infrastructure, technology, data, people, governance and ecological resources, then inspect why each relationship matters.",
+    "Seven guided investigations—from AI services and EV charging to urban water, telehealth and satellite navigation—invite students to locate critical dependencies, explore reinforcing feedback loops, and simulate hypothetical ripple effects through a simplified dependency graph.",
+    "Students can drag elements, add their own hypotheses and connections, reflect on stakeholders and uncertainty, and export portfolio-ready Markdown notes, SVG maps or PNG images. There are no accounts or API keys."
+  ],
+  "highlights": [
+    "Seven curated technology and infrastructure networks",
+    "137 system elements with 155 explained links",
+    "Six lenses: physical infrastructure, technology, data, people, governance and ecology",
+    "Visual interactive map with drag, pan, zoom, node details and keyboard-accessible inspection",
+    "21 hypothetical disruption scenarios with dependency-impact tracing",
+    "Illustrative feedback loops with explanations",
+    "Add missing elements and propose your own relationships",
+    "Guided systems-thinking reflections and contextual I'm Stuck questions",
+    "Transparent 100-point activity completion, private history and portfolio exports",
+    "Mobile-responsive, no account or subscription, GitHub Pages ready"
+  ],
+  "tags": ["Systems Thinking", "Technological Futures", "Design Thinking", "Systems Mapping", "Education", "Infrastructure", "Ecology", "Complexity", "Futures", "Interactive", "Learning", "Browser"],
+  "cover": "assets/cover.svg",
+  "imageAlt": "Ripple Map network diagram illustrating interdependent infrastructure, people and ecological systems",
+  "embed": true,
+  "featured": false,
+  "visible": true,
+  "notice": "Curated educational models, not real-time engineering simulations or validated failure predictions. Activity completion is not a factual grade. Student work is stored privately in each visitor's own browser."
+}
